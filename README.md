@@ -31,8 +31,15 @@ https://regexr.com/5mhon <--참고사이트
      # T로 시작하고 중간글자가 ex 거나 x 이거나 마지막은 t로 끝나는것을 찾음
      ![image](https://github.com/hyunju960429/Regiex/assets/145514544/60e81ac1-8b71-42be-9df9-7ff7edda0b4b)
 
+     ![image](https://github.com/hyunju960429/Regiex/assets/145514544/ef935159-5e42-4141-be6c-06962ed405c5)
+
+
 
     - []  : 문자셋, 괄호안의 어떤 문자든
+   
+     ![image](https://github.com/hyunju960429/Regiex/assets/145514544/e42fc487-23ce-45ab-bacf-20de6f2d6f53)
+
+    
     - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐때
     - (?:) : 찾지만 기억하지는 않음
       # 찾아는 지지만 그룹으로 만들고 싶지 않다면 사용 
