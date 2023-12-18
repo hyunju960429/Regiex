@@ -49,7 +49,14 @@ https://regexr.com/5mhon <--참고사이트
      # T로 시작하고 e 또는 x또는 i가 있고 t로 끝남
      # [exi] --> 대괄호 안에 있는 글자중 하나라고 만족하는것을 찾아라는 의미
      ![image](https://github.com/hyunju960429/Regiex/assets/145514544/e42fc487-23ce-45ab-bacf-20de6f2d6f53)
-    
+
+
+     # 아래 두 이미지는 T로 시작하고 a~x까지의 글자중 하나라도 가지고 있고 t로 끝나는 것을 찾음
+     
+     ![image](https://github.com/hyunju960429/Regiex/assets/145514544/ac314ad4-6cf4-4468-b827-fba0f22089d5)
+
+     ![image](https://github.com/hyunju960429/Regiex/assets/145514544/3058581f-9309-4f07-bb96-a55605f37c54)
+
 
 
    ------------------------
