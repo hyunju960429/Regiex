@@ -23,9 +23,15 @@ https://regexr.com/5mhon <--참고사이트
      ![image](https://github.com/hyunju960429/Regiex/assets/145514544/b79e8e0e-2f19-48a1-9aa5-b4c2e44997aa)
 
 
+
+
+
     - ()  : 그룹
    
      ![image](https://github.com/hyunju960429/Regiex/assets/145514544/ab5175af-3bb8-4b42-b075-be6d033d9883)
+
+
+
 
 
      # T로 시작하고 중간글자가 ex 거나 x 이거나 마지막은 t로 끝나는것을 찾음
@@ -35,9 +41,16 @@ https://regexr.com/5mhon <--참고사이트
 
 
 
+
+
+
     - []  : 문자셋, 괄호안의 어떤 문자든
    
      ![image](https://github.com/hyunju960429/Regiex/assets/145514544/e42fc487-23ce-45ab-bacf-20de6f2d6f53)
+
+
+
+
 
     
     - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐때
