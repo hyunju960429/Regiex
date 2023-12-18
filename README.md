@@ -35,3 +35,6 @@ https://regexr.com/5mhon <--참고사이트
     - []  : 문자셋, 괄호안의 어떤 문자든
     - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐때
     - (?:) : 찾지만 기억하지는 않음
+      # 찾아는 지지만 그룹으로 만들고 싶지 않다면 사용 
+      ![image](https://github.com/hyunju960429/Regiex/assets/145514544/508ab56c-17bf-47ba-a854-dbcca875e056)
+
