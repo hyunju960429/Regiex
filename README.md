@@ -24,6 +24,10 @@ https://regexr.com/5mhon <--참고사이트
 
 
     - ()  : 그룹
+   
+     ![image](https://github.com/hyunju960429/Regiex/assets/145514544/ab5175af-3bb8-4b42-b075-be6d033d9883)
+
+
     - []  : 문자셋, 괄호안의 어떤 문자든
     - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐때
     - (?) : 찾지만 기억하지는 않음
