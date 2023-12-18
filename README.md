@@ -19,6 +19,10 @@ https://regexr.com/5mhon <--참고사이트
 # 문법
  1) Group anf ranges
     - |   : 또는
+
+     ![image](https://github.com/hyunju960429/Regiex/assets/145514544/b79e8e0e-2f19-48a1-9aa5-b4c2e44997aa)
+
+
     - ()  : 그룹
     - []  : 문자셋, 괄호안의 어떤 문자든
     - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐때
