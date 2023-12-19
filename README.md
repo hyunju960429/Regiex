@@ -148,3 +148,24 @@ https://regexr.com/5mhon <--참고사이트
 ![image](https://github.com/hyunju960429/Regiex/assets/145514544/dd52e6a5-aebb-4a8d-bb33-3affe59d1ac9)
 
 
+
+-----------------------
+
+
+# {n} : n번반복
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/0c846b5e-c67c-4ec1-8e5c-69852b18d741)
+
+
+------------------------
+
+# {min,} : 최소 min 이상
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/c39fbe3c-abe0-4bd1-9e3d-6336e8c067ae)
+
+
+-----------------------
+
+# {min, max} : 촤소 min 이상 최대 max 이하
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/2dfa11c6-6901-40f1-b58a-c2a04a0f8c87)
+
+
+-------------------
