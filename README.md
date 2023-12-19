@@ -59,6 +59,8 @@ https://regexr.com/5mhon <--참고사이트
 
 
 
+     -----------------------------------
+
    
     
     - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐때
@@ -68,5 +70,18 @@ https://regexr.com/5mhon <--참고사이트
       
       ![image](https://github.com/hyunju960429/Regiex/assets/145514544/508ab56c-17bf-47ba-a854-dbcca875e056)
 
+
+
+
+
+
+      --------------------------
+
+
+
+
+      # a부터 z까지, A부터 Z까지, 0부터 9까지 하나라도 만족하면 모두 찾는다.
       
+      ![image](https://github.com/hyunju960429/Regiex/assets/145514544/23d68f55-fcf3-4f57-925e-215e38a4d782)
+
 
