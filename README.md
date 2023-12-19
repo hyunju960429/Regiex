@@ -47,7 +47,7 @@ https://regexr.com/5mhon <--참고사이트
     - []  : 문자셋, 괄호안의 어떤 문자든
 
      # T로 시작하고 e 또는 x또는 i가 있고 t로 끝남
-     # [exi] --> 대괄호 안에 있는 글자중 하나라고 만족하는것을 찾아라는 의미
+     # [exi] --> 대괄호 안에 있는 글자중 하나라도 만족하는것을 찾아라는 의미 
      ![image](https://github.com/hyunju960429/Regiex/assets/145514544/e42fc487-23ce-45ab-bacf-20de6f2d6f53)
 
 
