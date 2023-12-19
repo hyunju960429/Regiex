@@ -63,7 +63,7 @@ https://regexr.com/5mhon <--참고사이트
 
    
     
-    - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐때
+    
     
     - (?:) : 찾지만 기억하지는 않음
       # 찾아는 지지만 그룹으로 만들고 싶지 않다면 사용 
@@ -83,5 +83,11 @@ https://regexr.com/5mhon <--참고사이트
       # a부터 z까지, A부터 Z까지, 0부터 9까지 하나라도 만족하면 모두 찾는다.
       
       ![image](https://github.com/hyunju960429/Regiex/assets/145514544/23d68f55-fcf3-4f57-925e-215e38a4d782)
+
+
+
+      - [^] : 부정 문자셋, 괄호안의 어떤 문자가 아닐때
+      # a부터 z까지, A부터 Z까지, 0부터 9까지를 제외한 모든것을 찾는다.
+      ![image](https://github.com/hyunju960429/Regiex/assets/145514544/de0368d1-dfeb-41d7-be5c-b75445d8c4c8)
 
 
