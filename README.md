@@ -27,7 +27,7 @@ https://regexr.com/5mhon <--참고사이트
  2) 제한하기 위해 사용하는
     - ?   : 없거나 있거나(zero or one)
     - *   : 없거나 있거나 많거나(zero or one or more)
-    - +   : 하나 또는 많거나(one or more)
+    - + (&#43;)   : 하나 또는 많거나(one or more)
     - {n}   : n번 반복
     - {min,}: 최소
     - {min,max}: 최소 그리고 최대
@@ -124,5 +124,11 @@ https://regexr.com/5mhon <--참고사이트
 
 
       
+---------------------
+
+
+
+# ?: 있거나 없거나(많거나X)
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/8f94c4b0-fef8-4b66-8ac0-0084074b60e4)
 
 
