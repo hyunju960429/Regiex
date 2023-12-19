@@ -137,7 +137,14 @@ https://regexr.com/5mhon <--참고사이트
 
 --------------------
 
-# *: 있거나 없거나 많거나
+# *(&#42;): 있거나 없거나 많거나
 ![image](https://github.com/hyunju960429/Regiex/assets/145514544/5c9eb6c2-97b2-4ad8-920e-2165ab97192f)
+
+
+
+---------------------
+
+# +(&#43;): 있거나 많거나
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/dd52e6a5-aebb-4a8d-bb33-3affe59d1ac9)
 
 
