@@ -205,19 +205,41 @@ https://regexr.com/5mhon <--참고사이트
 # \ : 특수문자 --> 특수문자 온점(.)을 찾고자 할때
 ![image](https://github.com/hyunju960429/Regiex/assets/145514544/9360a058-7c90-49b9-8273-9385e9d3d4c8)
 
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/ac85a20c-c7cd-4711-98c4-a3ddbc827acc)
+
+
 -----------------------------
 
+# \d : 숫자 --> /\d/
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/c88843be-a8f9-45ea-966e-9c2801b0e147)
+
+---------------------
+
+# \D : 숫자 아님 --> /\D/
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/40036c24-6580-4bc4-9e0f-23d16b2c61b6)
+
+----------------------
+
+# \w  : 문자(word) --> /\w/ --> 글자와 숫자선택, (특문,띄워쓰기 제외)
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/ea38b318-1e28-42b6-a296-ca1a963d6871)
+
+----------------------------
+
+# \W  : 문자 아님 --> /\W/ --> 글자,숫자 제외 선택
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/16ac3a99-03a3-4801-a624-ce232c148b2f)
 
 
- 4) 특징을 이용하는 방법
-    - 
-    - 
-    - \d  : 숫자
-    - \D  : 숫자 아님
-    - \w  : 문자(word)
-    - \W  : 문자 아님
-    - \s  : 공백(space)
-    - \S  : 공백이 아닌것
+-------------------
 
+# \s : 공백(space) --> /\s/
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/a8218f1d-268f-4e1c-a267-e7fe304c968e)
+
+-------------------
+
+# \S  : 공백이 아닌것
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/872d8c7e-b458-439a-96e3-12995d676f5c)
+
+
+---------------------------
 
 
