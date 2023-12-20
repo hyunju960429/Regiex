@@ -169,3 +169,49 @@ https://regexr.com/5mhon <--참고사이트
 
 
 -------------------
+
+
+# \b : 단어경계 --> /\bYa/ --> Ya인데 단어중에서 Ya로 시작하는것
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/530b96bf-d27c-4755-a290-b51b193fc583)
+
+
+------------------
+
+# \b : 단어경계 --> /Ya\b/ --> Ya인데 단어중에서 Ya로 끝나는것
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/7c06ff36-3dd8-4d01-a247-8dba42466150)
+
+-------------------------
+
+# \B : 단어경계가 아님 --> /Ya\B/ --> Ya인데 단어중에서 Ya로 끝나지않는것 모두
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/e3694249-150e-4cd3-979b-b8ea66519e47)
+
+------------------------
+
+# ^ : 문장의 시작 --> /^Ya/ --> 문장의 시작이 Ya인것
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/c75ee402-ee17-471c-acf3-197fe5e9b5d0)
+
+------------------------
+
+# $ : 문장의 끝 --> /Ya$/ --> Ya로 끝나는 문장
+![image](https://github.com/hyunju960429/Regiex/assets/145514544/21bc116d-54b1-4314-8c9f-6336d7e0c8a7)
+
+------------------------
+
+
+
+
+
+
+
+ 4) 특징을 이용하는 방법
+    - \   : 특수문자가 아닌 문자
+    - .   : 어떤 글자(줄바꿈 문자 제외)
+    - \d  : 숫자
+    - \D  : 숫자 아님
+    - \w  : 문자(word)
+    - \W  : 문자 아님
+    - \s  : 공백(space)
+    - \S  : 공백이 아닌것
+
+
+
